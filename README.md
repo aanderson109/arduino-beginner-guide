@@ -1,6 +1,5 @@
 # A Guide for Getting Started with Arduino #
 
-## About This Guide ##
 This guide is primarily intended for someone who is new and looking to jump into the world of Arduino. In this guide, we will go over some basics surrounding the Arduino language along with how to use the board itself. We will explore some of the tutorials that come with the Arduino IDE and add our own twist onto them. Additionally, we will do some projects that apply techniques and concepts learned from those tutorials. The goal is to finish this guide with a basic understanding of the language, the board, and what is possible with the Arduino!
 
 ## Prerequisites ##
